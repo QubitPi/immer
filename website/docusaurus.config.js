@@ -3,10 +3,10 @@
 module.exports = {
 	title: "Immer",
 	tagline: "Create the next immutable state by mutating the current one.",
-	url: "https://immerjs.github.io/",
-	baseUrl: process.env.NETLIFY_PREVIEW ? "/" : "/immer/",
+	url: 'https://immer.qubitpi.org/',
+	baseUrl: process.env.NETLIFY_PREVIEW ? "/" : "/",
 	projectName: "immer",
-	organizationName: "immerjs",
+	organizationName: "QubitPi",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
